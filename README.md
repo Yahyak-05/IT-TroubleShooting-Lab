@@ -19,7 +19,7 @@
 
 ## 🌐 Overview
 
-This repository contains common IT support and helpdesk troubleshooting scenarios that technicians frequently encounter in enterprise environments. Each scenario includes the problem, troubleshooting process, resolution steps, and suggested screenshots that can be used to document the issue in a homelab or portfolio project.
+This repository contains common IT support and helpdesk troubleshooting scenarios that technicians frequently encounter in enterprise environments. Each scenario includes the problem, troubleshooting process, resolution steps, and  screenshots.
 
 The objective is to demonstrate structured troubleshooting, proper documentation, and familiarity with tools commonly used in IT support roles such as Active Directory, Windows networking utilities, Event Viewer, Services, and Microsoft Outlook.
 
@@ -51,11 +51,7 @@ A user reports they cannot sign in and receive an "Account is locked out" messag
 ### Resolution
 The account was unlocked and the user successfully authenticated.
 
-### Suggested Screenshots
 
-- ADUC showing a user account
-- User Properties → Account tab
-- Event Viewer Security log showing failed logon attempts
 
 ---
 
@@ -78,11 +74,6 @@ A user has forgotten their password and cannot access their account.
 ### Resolution
 The password was reset and the user regained access.
 
-### Suggested Screenshots
-
-- ADUC user account
-- Reset Password window
-- User Properties showing password-related settings
 
 ---
 
@@ -127,11 +118,6 @@ ipconfig /renew
 ### Resolution
 Network connectivity was restored after renewing the DHCP lease.
 
-### Suggested Screenshots
-
-- Command Prompt showing `ipconfig`
-- Successful ping to 8.8.8.8
-- Network Connections window
 
 ---
 
@@ -154,11 +140,6 @@ A user cannot print or print jobs remain stuck in the queue.
 ### Resolution
 The print queue was cleared and the spooler service restarted.
 
-### Suggested Screenshots
-
-- Printers & Scanners settings
-- Print queue with jobs
-- Services console showing Print Spooler
 
 ---
 
@@ -182,11 +163,7 @@ A user reports poor system performance and slow response times.
 ### Resolution
 High CPU usage caused by unnecessary applications was reduced.
 
-### Suggested Screenshots
 
-- Task Manager Performance tab
-- Task Manager Processes tab
-- Startup Applications tab
 
 ---
 
@@ -219,11 +196,6 @@ ipconfig /flushdns
 ### Resolution
 The Wi-Fi profile was recreated and connectivity was restored.
 
-### Suggested Screenshots
-
-- Wi-Fi network list
-- Command Prompt showing `netsh wlan show interfaces`
-- Device Manager network adapters
 
 ---
 
@@ -246,11 +218,7 @@ A user reports Outlook is not receiving new email messages.
 ### Resolution
 Outlook synchronization was restored after reconnecting the account.
 
-### Suggested Screenshots
 
-- Outlook Send/Receive tab
-- Work Offline option
-- Account Settings window
 
 ---
 
@@ -283,11 +251,6 @@ chkdsk /f
 ### Resolution
 Corrupted system files were repaired and stability improved.
 
-### Suggested Screenshots
-
-- Event Viewer System logs
-- Reliability Monitor
-- Command Prompt running `sfc /scannow`
 
 ---
 
@@ -312,13 +275,6 @@ A user presses the power button and the computer does not start.
 ### Resolution
 The system powered on after reseating the power connection.
 
-### Suggested Screenshots
-
-Since this is a physical hardware issue, use:
-
-- BIOS/UEFI screen
-- Windows boot screen
-- Device inventory documentation
 
 ---
 
@@ -346,12 +302,6 @@ A user receives an "Access Denied" error when attempting to access a network sha
 ### Resolution
 The user was added to the appropriate security group and access was restored.
 
-### Suggested Screenshots
-
-- Mapped network drive in File Explorer
-- ADUC group membership
-- Shared folder permissions
-- Access Denied error example
 
 ---
 
