@@ -48,9 +48,6 @@ A user reports they cannot sign in and receive an "Account is locked out" messag
    - Investigate failed authentication attempts.
    - Check for saved credentials on other devices or mapped drives.
 
-### Resolution
-The account was unlocked and the user successfully authenticated.
-
 
 
 ---
@@ -70,9 +67,6 @@ A user has forgotten their password and cannot access their account.
 6. Select **User must change password at next logon**.
 7. Inform the user of the temporary password using an approved communication method.
 8. Verify the user can successfully log in and create a new password.
-
-### Resolution
-The password was reset and the user regained access.
 
 
 ---
@@ -115,8 +109,6 @@ ipconfig /renew
 8. Restart the computer if necessary.
 9. Escalate to networking staff if the issue appears infrastructure-related.
 
-### Resolution
-Network connectivity was restored after renewing the DHCP lease.
 
 
 ---
@@ -137,8 +129,7 @@ A user cannot print or print jobs remain stuck in the queue.
 7. Remove and re-add the printer if necessary.
 8. Reinstall or update printer drivers.
 
-### Resolution
-The print queue was cleared and the spooler service restarted.
+
 
 
 ---
@@ -160,8 +151,6 @@ A user reports poor system performance and slow response times.
 8. Perform Disk Cleanup if required.
 9. Restart the system and reassess performance.
 
-### Resolution
-High CPU usage caused by unnecessary applications was reduced.
 
 
 
@@ -193,9 +182,7 @@ ipconfig /flushdns
 7. Run the Windows Network Troubleshooter.
 8. Restart the wireless adapter if necessary.
 
-### Resolution
-The Wi-Fi profile was recreated and connectivity was restored.
-
+ 
 
 ---
 
@@ -215,9 +202,7 @@ A user reports Outlook is not receiving new email messages.
 7. Check Microsoft 365 service health for outages.
 8. Escalate to the messaging team if necessary.
 
-### Resolution
-Outlook synchronization was restored after reconnecting the account.
-
+ 
 
 
 ---
@@ -248,9 +233,7 @@ chkdsk /f
 7. Update system drivers.
 8. Test memory using Windows Memory Diagnostic.
 
-### Resolution
-Corrupted system files were repaired and stability improved.
-
+ 
 
 ---
 
@@ -272,8 +255,7 @@ A user presses the power button and the computer does not start.
 6. For laptops, test with a known working charger.
 7. Escalate for hardware diagnostics if the system remains unresponsive.
 
-### Resolution
-The system powered on after reseating the power connection.
+ 
 
 
 ---
@@ -299,8 +281,7 @@ A user receives an "Access Denied" error when attempting to access a network sha
 7. Have the user sign out and sign back in after permission changes.
 8. Review share permissions and NTFS permissions if access still fails.
 
-### Resolution
-The user was added to the appropriate security group and access was restored.
+ 
 
 
 ---
