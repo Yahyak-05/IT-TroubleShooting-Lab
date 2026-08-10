@@ -304,15 +304,3 @@ The user was added to the appropriate security group and access was restored.
 
 
 ---
-
-## 📚 Lab Notes
-
-For portfolio purposes, try to include:
-
-- Before-and-after screenshots
-- Commands used during troubleshooting
-- A brief root cause analysis
-- The final resolution
-- Lessons learned
-
-Documenting both the troubleshooting process and the resolution demonstrates the same skills expected in real-world helpdesk and IT support environments.
