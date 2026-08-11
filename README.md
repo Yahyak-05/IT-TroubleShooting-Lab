@@ -56,7 +56,7 @@ A user reports they cannot sign in and receive an "Account is locked out" messag
 
 ### Problem
 A user has forgotten their password and cannot access their account.
-
+[check it out](https://github.com/Yahyak-05/IT-TroubleShooting-Lab/blob/main/Reset%20Password.pdf)
 ### Troubleshooting Steps
 
 1. Verify the user's identity.
