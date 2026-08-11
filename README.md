@@ -72,7 +72,7 @@ A user has forgotten their password and cannot access their account.
 ---
 
 ## 3. 🌐 No Internet Connection
-
+[check it out](https://github.com/Yahyak-05/IT-TroubleShooting-Lab/blob/main/%20No%20Internet%20Connection.pdf)
 ### Problem
 A user reports they cannot access websites or online resources.
 
