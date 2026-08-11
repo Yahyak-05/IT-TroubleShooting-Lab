@@ -30,7 +30,7 @@ The objective is to demonstrate structured troubleshooting, proper documentation
 ---
 
 ## 1. 🔒 User Account Locked Out
-
+[check it out](https://github.com/Yahyak-05/IT-TroubleShooting-Lab/blob/main/AccountLocked.pdf)
 ### Problem
 A user reports they cannot sign in and receive an "Account is locked out" message.
 
